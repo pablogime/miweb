@@ -1,2 +1,0 @@
-lo creamos para ver la funcion touch
-(sirve para crear un archivo desde la consola de git)
